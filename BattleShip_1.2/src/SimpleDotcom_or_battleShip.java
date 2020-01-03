@@ -3,8 +3,13 @@ import java.util.ArrayList;
 class SimpleDotcom{
     private ArrayList<String> locationCells ;
     int numberOfHit = 0;
+    private String name;
     public void setLocationCells(ArrayList<String> locs){
         locationCells = locs;
+    }
+
+    public void setName(String n){
+        name = n;
     }
 
     public String checkyourSelf(String stringGuess){
@@ -14,6 +19,7 @@ class SimpleDotcom{
             locationCells.remove(index);
             if(locationCells.isEmpty()){
                 result = "Kill";
+                System.out.println("Ouch ! You sunk " + name );
             }else{
                 result = "Hit";
             }

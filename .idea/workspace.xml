@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ff297d5-0373-4b02-a6b4-3f1b1884ec0b" name="Default Changelist" comment="Battle Ship 1.2 added Successfully">
+      <change afterPath="$PROJECT_DIR$/BattleShip_1.2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip_1.2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip_1.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip_1.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip_1.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip_1.2/out/production/Test/GameHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip_1.2/out/production/Test/SimpleDotcom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip_1.2/out/production/Test/SimpleDotcom_or_battleShipTestDrive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip_1.2/src/GameHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip_1.2/src/SimpleDotcom_or_battleShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BattleShip_1.2/src/SimpleDotcom_or_battleShipTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DogTestDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameLuncer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoodDogTestDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GuessGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/O-matic_phrase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleDotcom_or_battleShip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleDotcom_or_battleShipTestDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beerBottle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodDog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/local&amp;instance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleDotcom_or_battleShip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleDotcom_or_battleShipTestDrive.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="SIDTATUL &lt;19103073@iubat.edu&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="J:\Test\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VQ0efTTVGlp16Rdd7PbO8N0WI5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SimpleDotcom_or_battleShipTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleDotcom_or_battleShipTestDrive" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleDotcom_or_battleShipTestDrive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ff297d5-0373-4b02-a6b4-3f1b1884ec0b" name="Default Changelist" comment="" />
+      <created>1577170108386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577170108386</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Battle Ship 1.2 added Successfully">
+      <created>1577171470976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577171470976</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:J:/Test/src" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Battle Ship 1.2 added Successfully" />
+    <option name="LAST_COMMIT_MESSAGE" value="Battle Ship 1.2 added Successfully" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="20" y="0" width="1300" height="768" key="CommitChangelistDialog2" timestamp="1577171467445">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="20" y="0" width="1300" height="768" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1577171467445" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1577173709298">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1577173709298" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1577173709298">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1577173709298" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1577173709298">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1577173709298" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1577173709298">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1577173709298" />
+  </component>
+</project>

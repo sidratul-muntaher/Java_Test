@@ -8,7 +8,7 @@ class SimpleDotcom_or_battleShipTestDrive {
         int[] locations = {randomNumber, randomNumber + 1, randomNumber + 2};
         dot.setLocationCells(locations);
         boolean isAlive = true;
-        while(isAlive){
+        while(isAlive == true){
             String guess = helper.getUserinput("Inter a Number : ");
             String resuly = dot.checkyourSelf(guess);
             numberofGuess ++;
@@ -17,7 +17,7 @@ class SimpleDotcom_or_battleShipTestDrive {
                 System.out.println("You took " + numberofGuess + " guess");
             }
         }
-
-
+        
+        
     }
 }
